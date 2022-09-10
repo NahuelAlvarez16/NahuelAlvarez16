@@ -15,7 +15,7 @@ const Nahuel = {
     fullName: "Nahuel Alvarez",
     code: ["Javascript", "Java", "C#", "PHP", "C"],
     technologies: {
-       frontend: ['HTML', 'CSS', 'ReactJS', 'Vuejs', 'TailWind', "BlitzJs"]
+       frontend: ['HTML', 'CSS', 'ReactJS', 'Vuejs', 'TailWind', "BlitzJs"],
        backend: ['Laravel', 'NodeJS'],
        databases: ["MySql", "PostgreSQL"],
        misc: ["Unity", "Batch", "Bash"]
