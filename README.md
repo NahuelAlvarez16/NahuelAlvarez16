@@ -25,9 +25,26 @@ const Nahuel = {
 };
 ```
 ### Contact
+<table>
+  <tr>
+    <td valign="top"><div>
+      
+[![linkedin](https://linkedin-github.herokuapp.com/api/render/Nahuel%20Alvarez/Software%20Engineer/FullStack%20Developer/Student/dark/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66626569%3Fv%3D4)](www.linkedin.com/in/nahuel-alvarez16)
+      </div>
+    </td>
+    <td valign="top">
+      <a href="mailto:nahuel.alvarez1612@gmail.com?subject=Hi!!"><img width=70% src="https://i.ibb.co/3cJHkbT/c91df83b-2162-4f15-8079-817f4a65ea89.png"/></a>
+    </td>
+  </tr>
+</table>
 
-[![linkedin](https://linkedin-github.herokuapp.com/api/render/Nahuel%20Alvarez/Software%20Engineer/Fullstack/Student/dark/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66626569%3Fv%3D4)](www.linkedin.com/in/nahuel-alvarez16)
-                
+### Stats
+  <table>
+    <tr>
+      <td valign="top" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelAlvarez16&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+      <td valign="top" align="center"><img src="https://github-readme-stats.vercel.app/api?username=NahuelAlvarez16&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    </tr>
+  </table>
 <!--
 **NahuelAlvarez16/NahuelAlvarez16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,3 +59,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+.contact{
+   display: flex;
+   flex-direction: row;  
+}
