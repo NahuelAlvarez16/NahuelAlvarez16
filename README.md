@@ -26,8 +26,7 @@ const Nahuel = {
 ```
 ### Contact
 
-[![linkedin](https://linkedin-github.herokuapp.com/api/render/Ismael%20Soler/Software%20Engineer/Student/Montevideo,%20Uruguay/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC5603AQES74YkfzqLkA%2Fprofile-displayphoto-shrink_800_800%2F0%2F1662583765731%3Fe%3D1668038400%26v%3Dbeta%26t%3DqXFlzSjShemfOPrjfospnD79A6fCArlJLHde4mATCKg)](http://www.linkedin.com/in/ismael-soler/)
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="nahuel-alvarez-16-na" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uy.linkedin.com/in/nahuel-alvarez-16-na?trk=profile-badge">Nahuel Alvarez</a></div>
+[![linkedin](https://linkedin-github.herokuapp.com/api/render/Nahuel%20Alvarez/Software%20Engineer/Fullstack/Student/dark/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66626569%3Fv%3D4)](www.linkedin.com/in/nahuel-alvarez16)
                 
 <!--
 **NahuelAlvarez16/NahuelAlvarez16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
