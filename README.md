@@ -20,7 +20,7 @@ const Nahuel = {
        databases: ["MySql", "PostgreSQL"],
        misc: ["Unity", "Batch", "Bash"]
     },
-    currentlyLearning: ["Python", "Ionic", "NodeJs"]
+    currentlyLearning: ["Python", "Ionic", "NodeJs"],
     languages: ["ES", "EN"]
 };
 ```
